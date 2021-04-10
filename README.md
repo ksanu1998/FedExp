@@ -1,2 +1,2 @@
 # FedExp
-This repository contains files belonging to FedExp algorithm
+Federated algorithm with an exponential weighted average approach.
